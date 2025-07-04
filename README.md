@@ -2,18 +2,19 @@
 
 🎓 Computer Science student at the Egyptian E-Learning University  
 💻 Beginner programmer passionate about software development and real-world tech projects  
-🚀 I’m working on building a strong career in programming and freelancing
+🚀 Currently learning and working on personal projects to sharpen my skills
 
 ---
 
-## 💡 Current Skills
+## 💡 Skills I'm Learning
 
-- ✅ Java (used in projects)
-- 🔄 Currently learning:  
-  - C++  
-  - C#  
-  - Python  
-  - HTML  
+- ✅ Java (used in personal projects)
+- 🔄 Currently learning:
+  - C++
+  - C#
+  - Python
+  - HTML
+  - Arduino
 
 ---
 
@@ -31,8 +32,8 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_csharp/microsoft_csharp-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 </p>
 
 ---
@@ -45,12 +46,13 @@
 
 ---
 
-## ✨ My Future Goals
+## 🎯 Goals
 
-- Build my first simple game using Unity  
-- Publish Arduino-based projects and offer them as freelance services  
-- Learn mobile app development using Flutter or Kotlin  
+- Build and publish small games using Unity or Godot  
+- Create useful Arduino-based systems (LED, IR, sensors, etc.)  
+- Start working on freelance projects and build a strong portfolio  
+- Learn mobile development using Flutter or Kotlin  
 
 ---
 
-**Thanks for visiting!** 😊
+**Thanks for visiting my profile! Feel free to connect.** 😊
