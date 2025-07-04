@@ -1,66 +1,58 @@
-<!-- Your title -->
-## Hi, I'm Murillo Comino, a Developer 🚀 from Brazil.
+## 👋 مرحبًا، أنا عبدالله حامد
 
-<!-- Your badges -->
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/onimur)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-comino-6124ab49/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/murillo_comino/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.comino@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:murillo_comino@hotmail.com)
+🎓 طالب بكلية حاسبات ومعلومات – الجامعة المصرية للتعليم الإلكتروني  
+💻 مبرمج مبتدئ ومهتم بتطوير المهارات التقنية وبناء المشاريع العملية  
+🚀 أسعى لبناء مستقبل مهني ناجح في البرمجة والعمل الحر
 
-&nbsp;
+---
 
-<!-- Talking about you -->
-**Talking about Personal Stuffs:**
+## 💡 المهارات الحالية
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+- ✅ Java (تم إنجاز مشاريع بها)
+- 🔄 حاليًا أتعلم:  
+  - ++C  
+  - C#  
+  - Python  
+  - HTML  
 
-- 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
-- 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
-- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
-- 🤔 I’m looking for help with Design Pattern 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in civil engineering;
-- 📫 How to reach me: murillo_comino@hotmail.com;
+---
 
-**Languages and Tools:** 
+## 🌐 تواصل معي:
+
+[![خمسات](https://img.shields.io/badge/خمسات-Visit-green?style=flat&logo=fiverr&logoColor=white)](https://khamsat.com/user/abdallah_hamed9e)  
+[![Freelancer](https://img.shields.io/badge/Freelancer-Visit-blue?style=flat&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/abdallahh39)  
+[![Instagram](https://img.shields.io/badge/Instagram-@habdallahhamed-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/habdallahhamed?igsh=dnFuc2RjMGdjd2Zt)
+
+---
+
+## 🛠️ الأدوات واللغات
 
 <p>
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=onimur&show_icons=true&hide_border=true" />
-  </a>
-
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-</p>
-
-<p align="center">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/onimur/onimur.svg" />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_csharp/microsoft_csharp-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-ar21.svg"></code>
 </p>
 
 ---
 
-<!-- Its main projects -->
-<p align="center">
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz" />
-  </a>
-  <a href="https://github.com/onimur/circleci-github-changelog-generator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=circleci-github-changelog-generator" />
-  </a>
+## 📊 إحصائيات جيت هاب
+
+<p>
+  <img width="60%" alt="عبدالله's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" />
 </p>
 
-<!-- This readme was created by Murillo Comino - https://github.com/onimur -->
+> 📌 **استبدل** `YOUR_GITHUB_USERNAME` باسمك الحقيقي على GitHub
+
+---
+
+## ✨ أهدافي القادمة
+
+- تطوير أول لعبة بسيطة باستخدام محرك Unity
+- رفع مشاريع Arduino وبيعها كخدمات على خمسات
+- دخول مجال تطبيقات الهاتف باستخدام Flutter أو Kotlin
+
+---
+
+**شكراً لزيارتك!**  
