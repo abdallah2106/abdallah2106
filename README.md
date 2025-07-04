@@ -1,31 +1,31 @@
-## 👋 مرحبًا، أنا عبدالله حامد
+## 👋 Hi, I'm Abdallah Hamed
 
-🎓 طالب بكلية حاسبات ومعلومات – الجامعة المصرية للتعليم الإلكتروني  
-💻 مبرمج مبتدئ ومهتم بتطوير المهارات التقنية وبناء المشاريع العملية  
-🚀 أسعى لبناء مستقبل مهني ناجح في البرمجة والعمل الحر
+🎓 Computer Science student at the Egyptian E-Learning University  
+💻 Beginner programmer passionate about software development and real-world tech projects  
+🚀 I’m working on building a strong career in programming and freelancing
 
 ---
 
-## 💡 المهارات الحالية
+## 💡 Current Skills
 
-- ✅ Java (تم إنجاز مشاريع بها)
-- 🔄 حاليًا أتعلم:  
-  - ++C  
+- ✅ Java (used in projects)
+- 🔄 Currently learning:  
+  - C++  
   - C#  
   - Python  
   - HTML  
 
 ---
 
-## 🌐 تواصل معي:
+## 🌐 Connect with me:
 
-[![خمسات](https://img.shields.io/badge/خمسات-Visit-green?style=flat&logo=fiverr&logoColor=white)](https://khamsat.com/user/abdallah_hamed9e)  
+[![Khamsat](https://img.shields.io/badge/Khamsat-Visit-green?style=flat&logo=fiverr&logoColor=white)](https://khamsat.com/user/abdallah_hamed9e)  
 [![Freelancer](https://img.shields.io/badge/Freelancer-Visit-blue?style=flat&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/abdallahh39)  
 [![Instagram](https://img.shields.io/badge/Instagram-@habdallahhamed-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/habdallahhamed?igsh=dnFuc2RjMGdjd2Zt)
 
 ---
 
-## 🛠️ الأدوات واللغات
+## 🛠️ Tools & Languages
 
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
@@ -37,20 +37,20 @@
 
 ---
 
-## 📊 إحصائيات جيت هاب
+## 📊 GitHub Stats
 
 <p>
-  <img width="60%" alt="عبدالله's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=abdallah2106&show_icons=true&theme=default" />
+  <img width="60%" alt="Abdallah's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=abdallah2106&show_icons=true&theme=default" />
 </p>
 
 ---
 
-## ✨ أهدافي القادمة
+## ✨ My Future Goals
 
-- تطوير أول لعبة بسيطة باستخدام محرك Unity  
-- رفع مشاريع Arduino وبيعها كخدمات على خمسات  
-- دخول مجال تطبيقات الهاتف باستخدام Flutter أو Kotlin
+- Build my first simple game using Unity  
+- Publish Arduino-based projects and offer them as freelance services  
+- Learn mobile app development using Flutter or Kotlin  
 
 ---
 
-**شكراً لزيارتك!** 😊
+**Thanks for visiting!** 😊
