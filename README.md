@@ -40,19 +40,17 @@
 ## 📊 إحصائيات جيت هاب
 
 <p>
-  <img width="60%" alt="عبدالله's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" />
+  <img width="60%" alt="عبدالله's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=abdallah2106&show_icons=true&theme=default" />
 </p>
-
-> 📌 **استبدل** `YOUR_GITHUB_USERNAME` باسمك الحقيقي على GitHub
 
 ---
 
 ## ✨ أهدافي القادمة
 
-- تطوير أول لعبة بسيطة باستخدام محرك Unity
-- رفع مشاريع Arduino وبيعها كخدمات على خمسات
+- تطوير أول لعبة بسيطة باستخدام محرك Unity  
+- رفع مشاريع Arduino وبيعها كخدمات على خمسات  
 - دخول مجال تطبيقات الهاتف باستخدام Flutter أو Kotlin
 
 ---
 
-**شكراً لزيارتك!**  
+**شكراً لزيارتك!** 😊
